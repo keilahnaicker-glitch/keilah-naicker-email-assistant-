@@ -1,0 +1,6 @@
+{
+  "name": "Gmail Urgent Email Assistant",
+  "description": "Automate the detection of urgent emails and generate contextually appropriate response drafts using Google Antigravity agent loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
